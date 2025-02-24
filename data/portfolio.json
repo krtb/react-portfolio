@@ -1,9 +1,9 @@
 {
   "name": "Kurt",
-  "headerTaglineOne": "Hello 👋",
+  "headerTaglineOne": "Hello 👋🏽",
   "headerTaglineTwo": "I'm Kurt Bauer",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineThree": "a Software Engineer",
+  "headerTaglineFour": " based in Brooklyn, New York.",
   "showCursor": true,
   "showBlog": true,
   "darkMode": true,
@@ -12,71 +12,38 @@
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/krtb"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/kurt-bauer/"
     },
     {
       "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "title": "Blog",
+      "link": "https://dev.to/krtb"
     },
     {
       "id": "4",
-      "title": "Blog",
-      "link": "https://blog.chetanverma.com/"
-    },
-    {
-      "id": "5",
       "title": "Email",
-      "link": "mailto:hello@chetanverma.com"
+      "link": "mailto:elkrtb@pm.me"
     }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Legacy Salesforce Chat",
+      "description": "Chat integration in Pendo Resource Center",
+      "imageSrc": "https://i.imgur.com/822s8VW.png",
+      "url": "https://www.loom.com/share/fa604e67fccb43c3800f312a8a979525?sid=34a73229-0189-4a86-87d4-3a54f5300822"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Salesforce Knowledge Base",
+      "description": "Knowledge Base integration in Pendo Resource Center",
+      "imageSrc": "https://i.imgur.com/EZGHa9i.png",
+      "url": "https://www.loom.com/share/621df4dc508d47c3a81324cab639dac7?sid=7ea8a606-d8f3-400a-981a-3249af75992f"
     }
   ],
   "services": [
@@ -101,17 +68,17 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "I am a seasoned software engineer with over 10 years of experience in JavaScript & contemporary frameworks such as Vue and React. I have developed and integrated complex software solutions within cross-functional teams, enhancing the functionality and performance of SaaS platforms. With a strong foundation in modern development practices gained from my time at Flatiron School and hands-on roles at Pendo, JW Player, and other startups, I am adept at driving user-friendly, data-driven applications forward.",
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "👋🏽 I'm a software engineer.",
+    "description": "I am a seasoned software engineer with over 10 years of experience in JavaScript& contemporary frameworks such as Vue and React. I have developed and integrated complex software solutions within cross-functional teams, enhancing the functionality and performance of SaaS platforms. With a strong foundation in modern development practices gained from my time at Flatiron School and hands-on roles at Pendo, JW Player, and other startups, I am adept at driving user-friendly, data-driven applications forward.",
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
+        "dates": "November 2021 - Present",
         "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": "Bullet One, Bullet Two"
+        "position": "Senior Professional Services Engineer",
+        "bullets": "Developed and integrated a SFDC Knowledge Base system within the Pendo platform using the Pendo API; enhancing customer accessibility to knowledge articles and improving the in-app support experience with multilingual support., Bullet Two"
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
